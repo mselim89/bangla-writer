@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bangla Voice Writer</string>
+    <string name="accessibility_service_description">বাংলা এআই ভয়েস রাইটার: সক্রিয় অ্যাপ্লিকেশনে ব্যবহারকারীর কণ্ঠস্বর শুনে সরাসরি সাবলীল বাংলায় লেখার জন্য এই অনুমতি প্রয়োজন।</string>
+</resources>
